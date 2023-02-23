@@ -6,7 +6,7 @@ Author URI: https://vitoramaral.com
 Version: 1.0
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-*/
+*/ 
 ?> 
 
 <?php get_header(); ?>
