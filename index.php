@@ -1,6 +1,6 @@
 <?php
 /*
-Theme Name: Abril
+Theme Name: Abril 
 Author: Vitor Amaral
 Author URI: https://vitoramaral.com
 Version: 1.0
